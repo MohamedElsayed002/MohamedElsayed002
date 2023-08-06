@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MohamedElsayed002
 - 👀 I’m interested in Programming and Coding
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Typescript and Next.js
 - 📫 How to reach me https://twitter.com/Mohamed23529203
 
 <!---
