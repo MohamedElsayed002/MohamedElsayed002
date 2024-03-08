@@ -1,6 +1,6 @@
 
 ## Hi, I'm Mohamed Elsayed
-- 👋 Hi, I’m @MohamedElsayed002
+- 🖥️ I've been coding in Javascript primarily for over 3 years
 - 👀 I’m interested in Programming and Coding
 - 🌱 I’m currently learning Typescript and Next.js
 - 📫 How to reach me https://twitter.com/Mohamed23529203
