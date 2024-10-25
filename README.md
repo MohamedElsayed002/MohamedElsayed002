@@ -17,11 +17,11 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abdullah-khaled-0608a9236" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdullah Khaled" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/mohamedelsayed2002/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mohamed Elsayed" height="40" width="40" />
   </a>
   <a href="https://kaggle.com/abdullah7aled" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Abdullah Khaled" height="40" width="40" />
+    <img align="center" src="https://th.bing.com/th/id/OIP.ymdLUYayjisO2uU47lOI0AHaHa?rs=1&pid=ImgDetMain" alt="Kaggle - Abdullah Khaled" height="40" width="40" />
   </a>
   <a href="https://www.hackerrank.com/abdullah_7aled" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
