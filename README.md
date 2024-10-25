@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">AI Web Developer</h3>
----
+
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
 
@@ -12,3 +13,26 @@
 - 💬 **Ask me about**: MERN Stack  
 - 📫 **Reach me at**: [mohamedelsayed20258@gmail.com](mailto:mohamedelsayed20258@gmail.com)
 - ⚡ **Interested In**: Machine Learning and Deep Learning
+
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/abdullah-khaled-0608a9236" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdullah Khaled" height="40" width="40" />
+  </a>
+  <a href="https://kaggle.com/abdullah7aled" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Abdullah Khaled" height="40" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/abdullah_7aled" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
+  </a>
+  <a href="https://wa.me/+201557504902" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
+  </a>
+  <a href="https://t.me" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram - Abdullah Khaled" height="40" width="40" />
+  </a>
+</p>
+
+
+<br>
