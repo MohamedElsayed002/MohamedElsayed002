@@ -23,15 +23,6 @@
   <a href="https://leetcode.com/u/MohamedElsayed002/" target="_blank">
       <img align="center" src="https://th.bing.com/th/id/OIP.ymdLUYayjisO2uU47lOI0AHaHa?rs=1&pid=ImgDetMain" alt="Leedcode" height="40" width="40" style="margin: 10px;" />
   </a>
-  <a href="https://www.hackerrank.com/abdullah_7aled" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://wa.me/+201557504902" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://t.me" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram - Abdullah Khaled" height="40" width="40" />
-  </a>
 </p>
 
 
