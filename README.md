@@ -15,5 +15,5 @@
 - 📋 **Resume**: Check out My Resume [**here**](https://facebook)
 - 💬 **Ask me about**: MERN Stack  
 - 📫 **Reach me at**: [mohamedelsayed20258@gmail.com](mailto:mohamedelsayed20258@gmail.com)
-- ⚡ ** Interested In ** Machine Learning and Deep Learning
+- ⚡ **Interested In** Machine Learning and Deep Learning
 ---
