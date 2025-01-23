@@ -8,12 +8,6 @@
 
 
 
-### 👨‍💻 About Me:
-- 📋 **Resume**: Check outt My Resume [**here**](https://docs.google.com/document/d/17EJ7N-B8FNgvgj5xeI-PFtT57iTuX4qGjdjRl7_Stz0/edit?tab=t.0)
-- 💬 **Ask me about**: MERN Stack  
-- 📫 **Reach me at**: [mohamedelsayed20258@gmail.com](mailto:mohamedelsayed20258@gmail.com)
-- ⚡ **Interested In**: Machine Learning and Deep Learning
-
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
